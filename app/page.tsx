@@ -1,3 +1,4 @@
+"use client";  // 👈 이 줄 추가
 import { useState } from 'react';
 import axios from 'axios';
 
